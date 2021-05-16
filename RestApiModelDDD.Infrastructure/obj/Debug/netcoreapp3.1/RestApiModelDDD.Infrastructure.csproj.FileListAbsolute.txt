@@ -1,8 +1,0 @@
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.deps.json
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.dll
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.csprojAssemblyReference.cache
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.AssemblyInfoInputs.cache
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.AssemblyInfo.cs
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.runtimeconfig.json
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\bin\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.runtimeconfig.dev.json
-E:\Desktop\Donuz\restApi\RestApiModeloDDD\RestApiModelDDD.Infrastructure\obj\Debug\netcoreapp3.1\RestApiModelDDD.Infrastructure.genruntimeconfig.cache

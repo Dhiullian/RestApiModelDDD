@@ -1,0 +1,14 @@
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.deps.json
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.dll
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.pdb
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csprojAssemblyReference.cache
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.AssemblyInfoInputs.cache
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.AssemblyInfo.cs
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csproj.CoreCompileInputs.cache
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.csproj.CopyComplete
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.dll
+C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Services\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Services.pdb

@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="CrossCutting\Ioc\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\RestApiModeloDDD.Application\RestApiModeloDDD.Application.csproj" />
+    <ProjectReference Include="..\RestApiModeloDDD.Domain.Core\RestApiModeloDDD.Domain.Core.csproj" />
+    <ProjectReference Include="..\RestApiModeloDDD.Domain\RestApiModeloDDD.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
