@@ -2,7 +2,7 @@
 {
     public class Produto: Base
     {
-        public string nome { get; set; }
+        public string Nome { get; set; }
         public decimal Valor { get; set; }
         public bool Disponivel { get; set; }
 

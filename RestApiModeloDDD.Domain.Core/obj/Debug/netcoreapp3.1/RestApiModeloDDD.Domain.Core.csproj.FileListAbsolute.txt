@@ -10,3 +10,15 @@ C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\
 C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
 C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
 C:\Users\cliente\source\repos\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.deps.json
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.dll
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\bin\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.pdb
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csprojAssemblyReference.cache
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfoInputs.cache
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.AssemblyInfo.cs
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CoreCompileInputs.cache
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.csproj.CopyComplete
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.dll
+E:\Desktop\Donuz\RestApiModeloDDD\RestApiModeloDDD.Domain.Core\obj\Debug\netcoreapp3.1\RestApiModeloDDD.Domain.Core.pdb
